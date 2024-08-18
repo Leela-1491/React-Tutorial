@@ -1,0 +1,26 @@
+.container {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: "Roboto";
+  color: #f8fafc;
+  font-size: 50px;
+}
+
+.imageContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 80vw;
+}
+
+.image {
+  height: 230px;
+  width: 230px;
+}
